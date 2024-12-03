@@ -28,7 +28,8 @@ for the ease of use both backend & frontend are in the same repository.
 
 ### Frontend
 1. React.js
-2. Tailwind CSS
+2. React Router
+3. Tailwind CSS
 
 >[!NOTE]
 > React Context API is used for state management in the frontend. A Reducer pattern is used to manage the state.
