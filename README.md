@@ -1,6 +1,9 @@
 # Node-React-Starter-Pack
 This is a Typescript strater template to build quick proof of concepts using Node.js for the server and React.js for the client.
 
+>[!WARNING]
+>The repo is architected for speed and not for scalability. It is not recommended to use this pattern for production applications.
+
 ## Directory Structure
 for the ease of use both backend & frontend are in the same repository. 
 1. `backend` - Node.js Express server
