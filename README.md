@@ -4,6 +4,17 @@ This is a Typescript strater template to build quick proof of concepts using Nod
 >[!WARNING]
 >The repo is architected for speed of prototyping and not for scalability. It is not recommended to use this pattern for production applications.
 
+
+
+![Template Screenshot](docs/screenshot1.png)
+
+## Quick Links
+1. [Directory Structure](#directory-structure)
+2. [Tools Used](#tools-used)
+    - [Backend Tools](#backend)
+    - [Frontend Tools](#frontend)
+3. [Usage](#usage)
+
 ## Directory Structure
 for the ease of use both backend & frontend are in the same repository. 
 1. `backend` - Node.js Express server
